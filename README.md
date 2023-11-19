@@ -8,8 +8,6 @@ Also this program will delete blank and duplicated lines.
 
 ## 🔨 To Compile it Yourself
 ```
-
-
 pip install pyinstaller
 
 pyinstaller main.py --onefile  --windowed --icon=pwemiere.icns
